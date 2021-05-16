@@ -1,5 +1,5 @@
 en:
   js:
     composer:
-      reply_placeholder: "Type here. Use Markdown, BBCode, or HTML to format. Drag or paste images.\n\nHomework must be declared as homework when posting and only posted in the homework category.\n\nPost your code you have tried (even if not working), sample input and output data and all error messages."
-      reply_placeholder_no_images: "Type here. Use Markdown, BBCode, or HTML to format.\n\nHomework must be declared as homework when posting and only posted in the homework category.\n\nPost your code you have tried (even if not working), sample input and output data and all error messages."
+      reply_placeholder: "Type here. Use Markdown, BBCode, or HTML to format. Drag or paste images.\n\n  - Homework must be declared as homework when posting and only posted in the homework category.\n\n  - Post your code you have tried (especially if not working), sample input and output data and all error messages."
+      reply_placeholder_no_images: "Type here. Use Markdown, BBCode, or HTML to format.\n\n  - Homework must be declared as homework when posting and only posted in the homework category.\n\n  - Post your code you have tried (especially if not working), sample input and output data and all error messages."
