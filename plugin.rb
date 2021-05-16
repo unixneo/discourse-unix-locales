@@ -9,9 +9,4 @@
 
 PLUGIN_NAME = "discourse-unix-locales"
 
-# after_initialize do
-
-#     private 
-
-# end
 
