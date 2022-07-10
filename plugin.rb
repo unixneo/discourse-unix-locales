@@ -2,8 +2,8 @@
 
 # name: discourse-unix-locales
 # about: Overrides some Discourse phrases
-# version: 0.15
-# date: 16 May 2021
+# version: 0.16
+# date: 10 June 2021
 # authors: Neo
 # url: https://github.com/unixneo/discourse-unix-locales.git
 
