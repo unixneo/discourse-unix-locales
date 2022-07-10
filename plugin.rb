@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # name: discourse-unix-locales
-# about: Overrides some Discourse phrases
+# about: Overrides Some OOTB Discourse Phrases
 # version: 0.161
 # date: 10 July 2022
 # authors: Neo
