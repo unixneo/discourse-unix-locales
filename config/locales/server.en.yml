@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    enable_discourse_unix_locales: "Enable the discourse unix locales plugin"
