@@ -1,0 +1,2 @@
+plugins:
+  enable_discourse_unix_locales: true
