@@ -2,8 +2,8 @@
 
 # name: discourse-unix-locales
 # about: Overrides Some OOTB Discourse Phrases
-# version: 0.17
-# date: 1 April 2024
+# version: 0.18
+# date: 17 August 2024
 # authors: Neo
 # url: https://github.com/unixneo/discourse-unix-locales.git
 
